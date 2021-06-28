@@ -1,0 +1,4 @@
+
+function callDataNgraphs(ticker)
+
+end
