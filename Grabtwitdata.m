@@ -7,5 +7,6 @@ consumersecret = config.twit.consumersecret;
 accesstoken = config.twit.accesstoken;
 accesstokensecret = config.twit.accesstoksecret;
 twitobj = twitter(consumerkey,consumersecret,accesstoken,accesstokensecret);
+%testing commit
 end
 
